@@ -18,3 +18,8 @@
     ```bash
     terraform apply
     ```
+4. **Destroy resource**
+    ```bash
+    terraform destroy
+    ```
+
